@@ -1,0 +1,37 @@
+.border1{
+  display: inline-block;
+  border-left: 5px solid black;
+  border-right: 5px solid black;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  width:60%;
+  height:200px;
+  margin-left:20px;
+
+}
+
+.border2{
+  border: 5px solid black;
+}
+
+.padding{
+  padding: 20px;
+}
+
+.margin{
+  margin: 20px;
+}
+
+.background{
+  background-color: red;
+}
+
+.myPosition{
+  position: relative;
+}
+
+.myPosition2{
+  position: absolute;
+  top: 120px;
+  right: 0px;
+}
